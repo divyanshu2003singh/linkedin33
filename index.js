@@ -1,5 +1,5 @@
-let USERNAME = 'singh2003divyanshu@gmail.com';
-let PASSWORD = 'screenshot@divyanshu123';
+let USERNAME = 'email';
+let PASSWORD = 'password';
 let USERKEYWORDS = 'google';
 let USERLOCATION = 'poland';
 let USERJOBTITLE = 'legal head';
